@@ -1,0 +1,26 @@
+Please respect the Data_policy attached.
+
+###########################################################################################################
+
+2020-02-25
+Franziska U. Schwarzkopf
+fschwarzkopf@geomar.de
+
+###########################################################################################################
+
+For further infomation about the model configuration and the experiment see Schwarzkopf et al. 2019.
+The data are extracted from the high-resolution nested grid in INALT20.L46.
+
+Whenever using this data, please cite:
+Schwarzkopf, F. U., Biastoch, A., Boening, C. W., Chanut, J., Durgadoo, J. V., Getzlaff, K., Harlass, J., Rieck, J. K., Roth, C., Scheinert, M. M., and Schubert, R.: The INALT family – a set of high-resolution nests for the Agulhas Current system within global NEMO ocean/sea-ice configurations, Geosci. Model Dev., 12, 3329-3355, https://doi.org/10.5194/gmd-12-3329-2019, 2019.
+
+The hindcast simulation is performed under JRA55-do V1.4 atmospheric forcing from 1958-2018.
+The full period is coverd by three experiments KFS101, KFS103 and KFS104.
+The experiments slightly differ.
+In KFS101 (1958-1979) river runoff is distributed over a narrow coastal bnd - this occassionally leads to overshoots in SST close to the river mouth of the Amazonas it has therefore been changed in KFS103 (performed at HLRN-IIII-Emmy).
+In KFS103 (1980-1989) river runoff at the strongest river months are spread over a 50 km circle (performed at HLRN-IIII-Emmy).
+For the integration of KFS104 (1990-2018) I moved KFS103 to another HPC system (JSC-JUWLES at Forschungszentrum Jülich)
+
+Note: the freshwater budget in this model experiment is not balanced. Therefore, SSH drifts during the integration. The global mean SSH (*globalmeanSSH.nc) can be used to de-trend the SSH-fields if necessary - please contact fschwarzkopf@geomar.de)
+
+

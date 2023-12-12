@@ -1,0 +1,28 @@
+
+Inactive Modules:
+  1) netcdf-c
+
+
+Activating Modules:
+  1) netcdf-c/4.9.2-with-openmpi-4.1.5
+
+ncrcat: ERROR file "/sfs/fs1/work-geomar1/smomw044/INALT20.L46-KFS10X/1_mesh_mask.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncrcat: ERROR file "/sfs/fs1/work-geomar1/smomw044/INALT20.L46-KFS10X/1_INALT20.L46-KFS101_5d_19580101_19581231_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncatted: ERROR file "/gxfs_work/geomar/smomw294/iAtlantic/Subprojects/Wind_forcing/data/INALT20_23wON_extract_Nsquared_mean_profile//1_INALT20.L46-KFS101_5d_19580101_19581231_23W0N_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncatted: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncrcat: ERROR file "/sfs/fs1/work-geomar1/smomw044/INALT20.L46-KFS10X/1_INALT20.L46-KFS101_5d_19590101_19591231_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncatted: ERROR file "/gxfs_work/geomar/smomw294/iAtlantic/Subprojects/Wind_forcing/data/INALT20_23wON_extract_Nsquared_mean_profile//1_INALT20.L46-KFS101_5d_19590101_19591231_23W0N_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncatted: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncrcat: ERROR file "/sfs/fs1/work-geomar1/smomw044/INALT20.L46-KFS10X/1_INALT20.L46-KFS101_5d_19600101_19601231_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncatted: ERROR file "/gxfs_work/geomar/smomw294/iAtlantic/Subprojects/Wind_forcing/data/INALT20_23wON_extract_Nsquared_mean_profile//1_INALT20.L46-KFS101_5d_19600101_19601231_23W0N_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncatted: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+slurmstepd: error: *** JOB 10183662 ON nesh-clk366 CANCELLED AT 2023-11-30T13:55:45 ***
+ncrcat: ERROR file "/sfs/fs1/work-geomar1/smomw044/INALT20.L46-KFS10X/1_INALT20.L46-KFS101_5d_19640101_19641231_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+ncatted: ERROR file "/gxfs_work/geomar/smomw294/iAtlantic/Subprojects/Wind_forcing/data/INALT20_23wON_extract_Nsquared_mean_profile//1_INALT20.L46-KFS101_5d_19640101_19641231_23W0N_grid_T.nc" not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncatted: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+slurmstepd: error: *** JOB 10183659 ON nesh-clk599 CANCELLED AT 2023-11-30T13:55:54 ***
