@@ -28,7 +28,7 @@ Please download observational data publicly available as referenced within the p
 
 Scripts, observational data and model output needed to recreate figures in the paper are listed below.
 
-![image](https://github.com/Kristin-2002/Wind_forcing_public/assets/58337776/35b99b3e-d06b-4132-8218-189bff4ffb97)
+![image](https://github.com/Kristin-2002/Wind_forcing_public/assets/58337776/e45feda7-e4fb-4915-80d1-83b21cd3bc81)
 
 
 
