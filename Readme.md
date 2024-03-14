@@ -3,7 +3,7 @@
 #### Repository to Burmeister, K., Schwarzkopf, F. U., Rath, W., Biastoch, A., Brandt, P., Lübbecke, J. F., and Inall, M.: Dependency of simulated tropical Atlantic current variability on the wind forcing, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1433, 2023.
 
 ### Please cite this code as
-Burmeister, Kristin, Schwarzkopf, Franziska U. and Rath, Willi (2024). Supplementary code to: Dependency of simulated tropical Atlantic current variability on the wind forcing [code]. Scottish Association for Marine Science [distributor]. https://doi.org/10.5281/zenodo.10814850
+Burmeister, Kristin, Schwarzkopf, Franziska U. and Rath, Willi (2024). Supplementary code to: Dependency of simulated tropical Atlantic current variability on the wind forcing [code]. https://doi.org/10.5281/zenodo.10814850
 
 ### Code and data availability: 
 All necessary code for the data analysis and preparation of the figures of this manuscript is freely available at https://github.com/Kristin-2002/Wind_forcing.git. All observational data supporting the findings of this study are publicly available as referenced within the paper. Model output necessary to reproduce the presented findings are available at https://data.geomar.de/downloads/20.500.12085/77c0d676-1933-4f17-9849-5ea2161736eb/.
